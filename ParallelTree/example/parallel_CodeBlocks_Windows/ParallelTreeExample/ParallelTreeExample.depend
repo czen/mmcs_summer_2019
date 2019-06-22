@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1532081404 source:c:\users\vic.desktop-knaef9f\documents\codeblocks\paralleltreeexample\main.cpp
+	<iostream>
+	<limits>
+	<memory>
+	<vector>
+	"TreeNode.hpp"
+	"TreeParams.hpp"
+	"NumericResult.hpp"
+
+1531822470 c:\users\vic.desktop-knaef9f\documents\codeblocks\paralleltreeexample\treenode.hpp
+	<ParallelTree.hpp>
+
+1531824794 c:\users\vic.desktop-knaef9f\documents\codeblocks\paralleltreeexample\include\paralleltree.hpp
+	<algorithm>
+	<list>
+	<memory>
+	<vector>
+	<omp.h>
+
+1531823588 c:\users\vic.desktop-knaef9f\documents\codeblocks\paralleltreeexample\treeparams.hpp
+	<ParallelTree.hpp>
+
+1531825026 c:\users\vic.desktop-knaef9f\documents\codeblocks\paralleltreeexample\numericresult.hpp
+	<memory>
+	<ParallelTree.hpp>
+
+1534172324 source:d:\work\sfedu2019\summerpractice\repo\paralleltree\example\parallel_codeblocks_windows\paralleltreeexample\main.cpp
+	<iostream>
+	<limits>
+	<memory>
+	<vector>
+	"TreeNode.hpp"
+	"TreeParams.hpp"
+	"NumericResult.hpp"
+	<cstdio>
+
+1534172324 d:\work\sfedu2019\summerpractice\repo\paralleltree\example\parallel_codeblocks_windows\paralleltreeexample\treenode.hpp
+	<ParallelTree.hpp>
+
+1534172324 d:\work\sfedu2019\summerpractice\repo\paralleltree\example\parallel_codeblocks_windows\paralleltreeexample\include\paralleltree.hpp
+	<algorithm>
+	<list>
+	<memory>
+	<vector>
+	<omp.h>
+
+1534172324 d:\work\sfedu2019\summerpractice\repo\paralleltree\example\parallel_codeblocks_windows\paralleltreeexample\treeparams.hpp
+	<ParallelTree.hpp>
+
+1534172324 d:\work\sfedu2019\summerpractice\repo\paralleltree\example\parallel_codeblocks_windows\paralleltreeexample\numericresult.hpp
+	<memory>
+	<ParallelTree.hpp>
+

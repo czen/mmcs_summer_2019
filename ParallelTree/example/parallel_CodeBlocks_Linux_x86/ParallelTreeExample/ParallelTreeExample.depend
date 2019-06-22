@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1532081405 source:/home/vic/projects/CodeBlocks/ParallelTreeExample_x86/main.cpp
+	<iostream>
+	<limits>
+	<memory>
+	<vector>
+	"TreeNode.hpp"
+	"TreeParams.hpp"
+	"NumericResult.hpp"
+
+1531822470 /home/vic/projects/CodeBlocks/ParallelTreeExample_x86/TreeNode.hpp
+	<ParallelTree.hpp>
+
+1531824795 /home/vic/projects/CodeBlocks/ParallelTreeExample_x86/include/ParallelTree.hpp
+	<algorithm>
+	<list>
+	<memory>
+	<vector>
+	<omp.h>
+
+1531823589 /home/vic/projects/CodeBlocks/ParallelTreeExample_x86/TreeParams.hpp
+	<ParallelTree.hpp>
+
+1531825027 /home/vic/projects/CodeBlocks/ParallelTreeExample_x86/NumericResult.hpp
+	<memory>
+	<ParallelTree.hpp>
+
